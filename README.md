@@ -1,1 +1,1 @@
-# practical-git
+# practicalgit
